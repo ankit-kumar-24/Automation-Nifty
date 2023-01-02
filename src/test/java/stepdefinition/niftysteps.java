@@ -389,4 +389,181 @@ public class niftysteps extends baseclass{
 	    tp.getcommenttitle();
 	}
 	
+	
+	
+	
+	
+	
+	// Customfields
+	
+	@Then("Click on add customfields button")
+	public void click_on_add_customfields_button() {
+	    
+	}
+
+	@Then("Click on budget custom")
+	public void click_on_budget_custom() {
+	   
+	}
+
+	@Then("Enter budget custom name")
+	public void enter_budget_custom_name() {
+	    
+	}
+
+	@Then("Click on customfiled create button")
+	public void click_on_customfiled_create_button() {
+	    
+	}
+
+	@Then("Get budget title")
+	public void get_budget_title() {
+	   
+	}
+
+	@Then("Enter text custom name")
+	public void enter_text_custom_name() {
+	   
+	}
+
+	@Then("Get text title")
+	public void get_text_title() {
+	    
+	}
+
+	@Then("Click on dropdown custom")
+	public void click_on_dropdown_custom() {
+	    
+	}
+
+	@Then("Enter dropdown custom name")
+	public void enter_dropdown_custom_name() {
+	    
+	}
+
+	@Then("Get dropdown title")
+	public void get_dropdown_title() {
+	    
+	}
+
+	@Then("Click on Number custom")
+	public void click_on_number_custom() {
+	    
+	}
+
+	@Then("Enter Number custom name")
+	public void enter_number_custom_name() {
+	   
+	}
+
+	@Then("Get Number title")
+	public void get_number_title() {
+	    
+	}
+
+	@Then("Click on URL custom")
+	public void click_on_url_custom() {
+	    
+	}
+
+	@Then("Enter URL custom name")
+	public void enter_url_custom_name() {
+	    
+	}
+
+	@Then("Get URL title")
+	public void get_url_title() {
+	    
+	}
+
+	@Then("Click on Phone custom")
+	public void click_on_phone_custom() {
+	    
+	}
+
+	@Then("Enter Phone custom name")
+	public void enter_phone_custom_name() {
+	    
+	}
+
+	@Then("Get Phone title")
+	public void get_phone_title() {
+	   
+	}
+
+	@Then("Click on Email custom")
+	public void click_on_email_custom() {
+	   
+	}
+
+	@Then("Enter Email custom name")
+	public void enter_email_custom_name() {
+	   
+	}
+
+	@Then("Get Email title")
+	public void get_email_title() {
+	    
+	}
+
+	@Then("Click on Location custom")
+	public void click_on_location_custom() {
+	    
+	}
+
+	@Then("Enter Location custom name")
+	public void enter_location_custom_name() {
+	   
+	}
+
+	@Then("Get Location title")
+	public void get_location_title() {
+	   
+	}
+
+	@Then("Click on Currency custom")
+	public void click_on_currency_custom() {
+	    
+	}
+
+	@Then("Enter Currency custom name")
+	public void enter_currency_custom_name() {
+	   
+	}
+
+	@Then("Get Currency title")
+	public void get_currency_title() {
+	    
+	}
+
+	@Then("Click on Checkbox custom")
+	public void click_on_checkbox_custom() {
+	    
+	}
+
+	@Then("Enter Checkbox custom name")
+	public void enter_checkbox_custom_name() {
+	    
+	}
+
+	@Then("Get Checkbox title")
+	public void get_checkbox_title() {
+	    
+	}
+
+	@Then("Click on Date custom")
+	public void click_on_date_custom() {
+	    
+	}
+
+	@Then("Enter Date custom name")
+	public void enter_date_custom_name() {
+	   
+	}
+
+	@Then("Get Date title")
+	public void get_date_title() {
+	    
+	}
+	
 }

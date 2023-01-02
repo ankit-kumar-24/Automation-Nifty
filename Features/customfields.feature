@@ -1,6 +1,6 @@
 Feature: Customfields
 
-Scenario: Succesfully add functionality in task
+Scenario: Succesfully add customfields in task
       Given User Launch Chrome browser
       When User opens URL "https://niftyuat.com/"
       And User enters Email as "ankit.k+test000@gortnm.in" and Password as "12345678"
