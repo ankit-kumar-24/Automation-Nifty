@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="66.219">
+    <testcase classname="Project" name="Succesfully public project created then delete same project" time="65.437">
+        <system-out><![CDATA[Given User Launch Chrome browser............................................passed
+When User opens URL "https://niftyqa.com/"..................................passed
+And User enters Email as "ankit.k+test000@gortnm.in" and Password as "12345678".passed
+And Click on Login..........................................................passed
+And Click on project creation button........................................passed
+And Enter project name......................................................passed
+And Click on create project button..........................................passed
+Then Get project title......................................................passed
+And Click on project menu option............................................passed
+And Click on delete option..................................................passed
+And Type delete in box......................................................passed
+And click yes,deleteproject button..........................................passed
+Then Get delete project title...............................................passed
+And close browser...........................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>

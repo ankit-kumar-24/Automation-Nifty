@@ -1,0 +1,4 @@
+niftytestrunner\niftyrun.class
+stepdefinition\baseclass.class
+pageobjects\Niftyloginpage.class
+stepdefinition\niftysteps.class
